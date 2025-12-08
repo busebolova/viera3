@@ -1,12 +1,6 @@
 {
   "pageTitle": "Projelerimiz 2",
   "pageDescription": "60 yılı aşkın tecrübemizle gerçekleştirdiğimiz projeler",
-  "heroImage": "/projects-hero.jpg",
-  "categories": {
-    "completed": "Tamamlanan Projeler",
-    "ongoing": "Devam Eden Projeler",
-    "upcoming": "Başlayacak Projeler"
-  },
   "completed": [
     {
       "id": "validebag-27-28",
@@ -125,5 +119,11 @@
       "gallery": [],
       "features": []
     }
-  ]
+  ],
+  "heroImage": "/projects-hero.jpg",
+  "categories": {
+    "completed": "Tamamlanan Projeler",
+    "ongoing": "Devam Eden Projeler",
+    "upcoming": "Başlayacak Projeler"
+  }
 }
