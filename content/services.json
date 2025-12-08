@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "Hizmetlerimiz",
+    "title": "Hizmetlerimiz 2",
     "subtitle": "60 yılı aşkın tecrübemizle modern yaşam alanları inşa ediyoruz.",
     "image": "/services-hero.jpg"
   },
@@ -17,9 +17,18 @@
       "description": "Modern yaşam standartlarına uygun, konforu ve estetiği bir araya getiren konut projeleri geliştiriyoruz.",
       "image": "/service-residential.jpg",
       "items": [
-        { "title": "Lüks Apartman Kompleksleri", "description": "Modern mimarisi ve sosyal olanaklarıyla" },
-        { "title": "Rezidans Projeleri", "description": "Premium hizmet anlayışıyla donatılmış" },
-        { "title": "Villa ve Müstakil Konutlar", "description": "Özel yaşam alanları için özel tasarımlar" }
+        {
+          "title": "Lüks Apartman Kompleksleri",
+          "description": "Modern mimarisi ve sosyal olanaklarıyla"
+        },
+        {
+          "title": "Rezidans Projeleri",
+          "description": "Premium hizmet anlayışıyla donatılmış"
+        },
+        {
+          "title": "Villa ve Müstakil Konutlar",
+          "description": "Özel yaşam alanları için özel tasarımlar"
+        }
       ]
     },
     {
@@ -29,9 +38,18 @@
       "description": "İş dünyasının dinamik ihtiyaçlarına yönelik, fonksiyonel ve prestijli ticari binalar inşa ediyoruz.",
       "image": "/service-commercial.jpg",
       "items": [
-        { "title": "İş Merkezleri ve Plazalar", "description": "Kurumsal kimliğe uygun prestijli ofis alanları" },
-        { "title": "Alışveriş Kompleksleri", "description": "Modern perakende ve eğlence merkezleri" },
-        { "title": "Otel ve Turizm Tesisleri", "description": "Konuk memnuniyeti odaklı konaklama projeleri" }
+        {
+          "title": "İş Merkezleri ve Plazalar",
+          "description": "Kurumsal kimliğe uygun prestijli ofis alanları"
+        },
+        {
+          "title": "Alışveriş Kompleksleri",
+          "description": "Modern perakende ve eğlence merkezleri"
+        },
+        {
+          "title": "Otel ve Turizm Tesisleri",
+          "description": "Konuk memnuniyeti odaklı konaklama projeleri"
+        }
       ]
     },
     {
@@ -41,9 +59,18 @@
       "description": "Riskli yapıların dönüştürülmesi ve modern yaşam alanlarının oluşturulması.",
       "image": "/project-ongoing.jpg",
       "items": [
-        { "title": "Risk Analizi", "description": "Yapı güvenliği ve deprem dayanımı testleri" },
-        { "title": "Proje Planlaması", "description": "Yeni yapı tasarımı ve izin süreçleri" },
-        { "title": "Anahtar Teslim", "description": "Yıkımdan teslimata komple çözüm" }
+        {
+          "title": "Risk Analizi",
+          "description": "Yapı güvenliği ve deprem dayanımı testleri"
+        },
+        {
+          "title": "Proje Planlaması",
+          "description": "Yeni yapı tasarımı ve izin süreçleri"
+        },
+        {
+          "title": "Anahtar Teslim",
+          "description": "Yıkımdan teslimata komple çözüm"
+        }
       ]
     }
   ],
