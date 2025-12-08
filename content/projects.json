@@ -1,7 +1,12 @@
 {
-  "pageTitle": "Projelerimiz",
+  "pageTitle": "Projelerimiz 2",
   "pageDescription": "60 yılı aşkın tecrübemizle gerçekleştirdiğimiz projeler",
   "heroImage": "/projects-hero.jpg",
+  "categories": {
+    "completed": "Tamamlanan Projeler",
+    "ongoing": "Devam Eden Projeler",
+    "upcoming": "Başlayacak Projeler"
+  },
   "completed": [
     {
       "id": "validebag-27-28",
@@ -18,7 +23,13 @@
       "status": "completed",
       "mainImage": "/project-1.jpg",
       "gallery": [],
-      "features": ["Modern mimari", "Depreme dayanıklı", "Kapalı otopark", "Güvenlik sistemi", "Merkezi ısıtma"]
+      "features": [
+        "Modern mimari",
+        "Depreme dayanıklı",
+        "Kapalı otopark",
+        "Güvenlik sistemi",
+        "Merkezi ısıtma"
+      ]
     },
     {
       "id": "azade-86",
@@ -35,7 +46,11 @@
       "status": "completed",
       "mainImage": "/project-1.jpg",
       "gallery": [],
-      "features": ["Modern tasarım", "Kaliteli işçilik", "Merkezi sistem"]
+      "features": [
+        "Modern tasarım",
+        "Kaliteli işçilik",
+        "Merkezi sistem"
+      ]
     },
     {
       "id": "eski-anadolu-b",
@@ -52,7 +67,10 @@
       "status": "completed",
       "mainImage": "/project-1.jpg",
       "gallery": [],
-      "features": ["Modern yapı", "Deprem güvenliği"]
+      "features": [
+        "Modern yapı",
+        "Deprem güvenliği"
+      ]
     }
   ],
   "ongoing": [
@@ -72,14 +90,23 @@
       "status": "ongoing",
       "mainImage": "/project-ongoing.jpg",
       "gallery": [],
-      "features": ["Kentsel dönüşüm", "Modern mimari", "Deprem güvenliği", "Akıllı ev sistemleri"],
+      "features": [
+        "Kentsel dönüşüm",
+        "Modern mimari",
+        "Deprem güvenliği",
+        "Akıllı ev sistemleri"
+      ],
       "updates": [
         {
           "date": "2024-12",
           "title": "Kaba İnşaat Tamamlandı",
           "description": "Projenin kaba inşaat aşaması başarıyla tamamlandı."
         },
-        { "date": "2024-10", "title": "Çatı Çalışmaları", "description": "Çatı izolasyonu ve kaplaması tamamlandı." }
+        {
+          "date": "2024-10",
+          "title": "Çatı Çalışmaları",
+          "description": "Çatı izolasyonu ve kaplaması tamamlandı."
+        }
       ]
     }
   ],
